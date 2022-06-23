@@ -2,8 +2,8 @@
 Hi 👋, I'm Ansh Agarwal.
 A Passionate Full Stack Developer & UI/UX Designer from India.
 🔭 I’m currently working on Automation.
-📫 You can reach me via ansh@weblytechnolab.tech
-📄 Know about my experiences : https://weblytechnolab.tech/ansh
+📫 You can reach me via info.ansh012@gmail.com
+📄 Know about my experiences : https://anshagarwal.github.io/
 
 
 ## 🌐Socials
