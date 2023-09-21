@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh</h1>
-<h3 align="center">👋 Hi there! I'm Ansh, a software enthusiast with a passion for crafting elegant code and solving intricate puzzles. My coding journey began 2018, and I've been on a relentless quest for knowledge ever since.
+<p align="center">👋 Hi there! I'm Ansh, a software enthusiast with a passion for crafting elegant code and solving intricate puzzles. My coding journey began 2018, and I've been on a relentless quest for knowledge ever since.
 
 🚀 I specialize in Wordpress, Laravel, Core PHP & Python, and I thrive on pushing the boundaries of what's possible in these fields. I love learning about new technologies and applying them to real-world problems.
 
@@ -7,7 +7,7 @@
 
 🌟 Fun Fact: I Am Designer Also
 
-Feel free to reach out, and let's make the tech world a better place one project at a time. 💻🌍</h3>
+Feel free to reach out, and let's make the tech world a better place one project at a time. 💻🌍</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshagarwal012&label=Profile%20views&color=0e75b6&style=flat" alt="anshagarwal012" /> </p>
 
