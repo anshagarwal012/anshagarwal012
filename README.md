@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh</h1>
-p>👋 Hi there! I'm Ansh, a software enthusiast with a passion for crafting elegant code and solving intricate puzzles. My coding journey began 2018, and I've been on a relentless quest for knowledge ever since.
+<p>👋 Hi there! I'm Ansh, a software enthusiast with a passion for crafting elegant code and solving intricate puzzles. My coding journey began 2018, and I've been on a relentless quest for knowledge ever since.
 
 🚀 I specialize in Wordpress, Laravel, Core PHP & Python, and I thrive on pushing the boundaries of what's possible in these fields. I love learning about new technologies and applying them to real-world problems.
 
